@@ -1,5 +1,5 @@
 using bbInject;
-using Ui.Module;
+using bbInject.UiModule;
 using Ui.View.Home;
 using UnityEngine;
 

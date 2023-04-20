@@ -1,4 +1,4 @@
-using Ui.Module;
+using bbInject.UiModule;
 
 namespace Ui.View.Home
 {

@@ -1,6 +1,4 @@
-using bbInject;
-
-namespace Ui.Module
+namespace bbInject.UiModule
 {
     public static class Extensions
     {

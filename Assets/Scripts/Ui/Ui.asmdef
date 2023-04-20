@@ -1,8 +1,9 @@
 {
-    "name": "Ui.Module",
+    "name": "Ui",
     "rootNamespace": "",
     "references": [
-        "GUID:e67179235a12f467987f951c0b3c3d26"
+        "GUID:e67179235a12f467987f951c0b3c3d26",
+        "GUID:7d1eb9dc949034a9a9e7e0124933cb71"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],

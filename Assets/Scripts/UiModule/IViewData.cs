@@ -1,4 +1,4 @@
-namespace Ui.Module
+namespace bbInject.UiModule
 {
     public interface IViewData
     {

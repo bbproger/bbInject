@@ -1,8 +1,7 @@
 using System;
-using bbInject;
 using UnityEngine;
 
-namespace Ui.Module
+namespace bbInject.UiModule
 {
     [Serializable]
     public class UiContainer

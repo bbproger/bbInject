@@ -1,7 +1,6 @@
 using System;
-using bbInject;
 
-namespace Ui.Module
+namespace bbInject.UiModule
 {
     public abstract class ViewController : IDisposable
     {
