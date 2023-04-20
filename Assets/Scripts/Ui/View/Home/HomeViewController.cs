@@ -1,6 +1,6 @@
-using bbInject.UiModule;
+using bb.UiModule;
 
-namespace Ui.View.Home
+namespace bb.Ui.View.Home
 {
     public class HomeViewController : ViewController
     {

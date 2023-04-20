@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace bbInject
+namespace bb.bbInject
 {
     public abstract class DependencyInstaller : MonoBehaviour
     {

@@ -1,8 +1,8 @@
-using bbInject;
-using bbInject.UiModule;
-using Ui.View.Home;
+using bb.bbInject;
+using bb.Ui.View.Home;
+using bb.UiModule;
 
-namespace Ui.View
+namespace bb.Ui.View
 {
     public class UiInstaller : UiSkeletonInstaller
     {

@@ -1,6 +1,6 @@
 {
     "name": "bbInject",
-    "rootNamespace": "",
+    "rootNamespace": "bb",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],

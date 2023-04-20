@@ -1,6 +1,6 @@
-using bbInject;
-using bbInject.UiModule;
-using Ui.View.Home;
+using bb.bbInject;
+using bb.Ui.View.Home;
+using bb.UiModule;
 using UnityEngine;
 
 public class Test : MonoBehaviour
@@ -12,7 +12,7 @@ public class Test : MonoBehaviour
     {
         _viewService = viewService;
     }
-        
+
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.Space))

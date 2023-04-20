@@ -1,6 +1,6 @@
 using System;
 
-namespace bbInject
+namespace bb.bbInject
 {
     public class Dependency
     {

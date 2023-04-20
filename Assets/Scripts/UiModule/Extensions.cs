@@ -1,4 +1,6 @@
-namespace bbInject.UiModule
+using bb.bbInject;
+
+namespace bb.UiModule
 {
     public static class Extensions
     {

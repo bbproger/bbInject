@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace bbInject
+namespace bb.bbInject
 {
     public static class DependencyExtensions
     {
